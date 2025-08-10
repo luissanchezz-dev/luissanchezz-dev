@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Luis Sánchez
 
-![Profile Banner](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)
+![Profile Banner](https://i.pinimg.com/1200x/8b/39/8e/8b398e3c74c7284906e735ef052bfaed.jpg)
 
 ## 🚀 Sobre mí
 
