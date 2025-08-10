@@ -59,7 +59,7 @@ Apasionado desarrollador de software, arquitecto de ideas y constructor de soluc
 
 - [LinkedIn](https://linkedin.com/in/luiss-sanchezz)
 - [Instagram](https://instagram.com/luissanchezz_oficial)
-- [Web Personal](https://luissanchezz.dev)
+- [Web Personal](https://mx.pinterest.com/pin/4011087179392921/)
 
 ---
 
