@@ -25,15 +25,15 @@ Apasionado desarrollador de software, arquitecto de ideas y constructor de soluc
 
 ## 🌟 Proyectos destacados
 
-- **[ProDevHub](https://github.com/luissanchezz-dev/prodevhub):** Plataforma colaborativa para desarrolladores, con integración de IA y dashboards personalizables.
-- **[SmartHomeX](https://github.com/luissanchezz-dev/smarthomex):** Solución IoT para automatización del hogar, control desde dispositivos móviles y asistentes de voz.
-- **[DataVision](https://github.com/luissanchezz-dev/datavision):** Herramienta de visualización de datos en tiempo real para análisis empresarial.
+- **[LinkHub](https://linkhub-b.vercel.app/):** Plataforma link in bio para creadores, plan completo y gratuito de por vida.
+- **[BioLink AI](https://biolink-ai-beta.vercel.app/):** Plataforma que centraliza redes y contenidos en un solo enlace inteligente que potencia marcas, ventas y presencia online con IA..
+- **[Kubo AI](https://kubo-ai-beta.vercel.app/):** Herramienta de creación de apps, páginas y software completo con la IA más potente y versátil para desarrolladores.
 
 ---
 
 ## 🏆 Logros y reconocimientos
 
-- Ganador de hackathons nacionales e internacionales
+- Certificado de finalización de CS50 Harvard's OpenCourseWare (OCW)
 - Certificado en Cloud Computing y Machine Learning
 - Reconocido por contribuciones open source en varias comunidades tech
 
@@ -49,15 +49,15 @@ Apasionado desarrollador de software, arquitecto de ideas y constructor de soluc
 
 ## 🎯 Más allá del código
 
-- 🎸 Guitarrista amateur y explorador musical
-- 🌄 Apasionado del senderismo y la fotografía
-- ☕ Fan del café y las buenas conversaciones
+-✍️ Escritor de mundos increíbles
+-🌟 Apasionado de la vida y los momentos
+-☕ Fan del café y las buenas conversaciones
 
 ---
 
 ## 📬 ¡Conectemos!
 
-- [LinkedIn](https://linkedin.com/in/luissanchezz-dev)
+- [LinkedIn](https://linkedin.com/in/luissanchezz)
 - [Twitter/X](https://twitter.com/luissanchezzdev)
 - [Web Personal](https://luissanchezz.dev)
 
