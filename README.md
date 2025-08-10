@@ -26,7 +26,7 @@ Apasionado desarrollador de software, arquitecto de ideas y constructor de soluc
 ## 🌟 Proyectos destacados
 
 - **[LinkHub](https://linkhub-b.vercel.app/):** Plataforma link in bio para creadores, plan completo y gratuito de por vida.
-- **[BioLink AI](https://biolink-ai-beta.vercel.app/):** Plataforma que centraliza redes y contenidos en un solo enlace inteligente que potencia marcas, ventas y presencia online con IA..
+- **[BioLink AI](https://biolink-ai-beta.vercel.app/):** Plataforma que centraliza redes sociales y contenido en un solo enlace inteligente que potencia marcas, ventas y presencia online con IA.
 - **[Kubo AI](https://kubo-ai-beta.vercel.app/):** Herramienta de creación de apps, páginas y software completo con la IA más potente y versátil para desarrolladores.
 
 ---
@@ -57,8 +57,8 @@ Apasionado desarrollador de software, arquitecto de ideas y constructor de soluc
 
 ## 📬 ¡Conectemos!
 
-- [LinkedIn](https://linkedin.com/in/luissanchezz)
-- [Twitter/X](https://twitter.com/luissanchezzdev)
+- [LinkedIn](https://linkedin.com/in/luiss-sanchezz)
+- [Instagram](https://instagram.com/luissanchezz_oficial)
 - [Web Personal](https://luissanchezz.dev)
 
 ---
